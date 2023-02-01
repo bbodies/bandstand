@@ -8,25 +8,10 @@ html,body {
 }
 
 .img-fluid {
-    padding-top:5em;
-    padding-left:0.4em;
-    padding-right:0.4em;
-    padding-bottom:5em;
-}
-
-#time {
-    text-align:center;
-    padding-top:5em;
-}
-
-#venue {
-    text-align:center;
+    padding:5em;
 }
 
 #prog {
     text-align:center;
-}
-
-hr {
-    padding-top:5em;
+    padding-bottom:5em;
 }
