@@ -11,7 +11,10 @@ html,body {
     padding:5em;
 }
 
-#prog {
+p {
     text-align:center;
+}
+
+#prog {
     padding-bottom:5em;
 }
