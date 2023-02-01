@@ -14,10 +14,6 @@ html,body {
     padding-bottom:5em;
 }
 
-.h1 {
-    text-align:center;
-}
-
 #time {
     text-align:center;
     padding-top:5em;
@@ -31,6 +27,6 @@ html,body {
     text-align:center;
 }
 
-.hr {
+hr {
     padding-top:5em;
 }
