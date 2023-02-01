@@ -11,6 +11,7 @@ html,body {
     padding-top:5em;
     padding-left:0.4em;
     padding-right:0.4em;
+    padding-bottom:5em;
 }
 
 #time {
@@ -24,5 +25,4 @@ html,body {
 
 #prog {
     text-align:center;
-    padding-top:5em;
 }
