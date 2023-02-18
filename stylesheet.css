@@ -7,9 +7,10 @@ html,body {
     padding:5em;
 }
 
-/* .img-fluid {
-    padding:5em;
-} */
+.img-fluid {
+    padding-top:5em;
+    Padding-bottom:5em;
+}
 
 p, h1 {
     text-align:center;
